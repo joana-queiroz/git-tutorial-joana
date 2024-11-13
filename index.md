@@ -6,14 +6,19 @@ This is a template for a static website using Sphinx and GitHub Pages.
 :maxdepth: 2
 :hidden:
 
-about
+casper/about_casper
+henry/aboutme
+joana/aboutme
+Roopa/aboutme
+valgeir/aboutme
 ```
+
 
 ```{toctree}
 :maxdepth: 2
 :hidden:
-:caption: A topic
+:caption: about biosustain
 
-folder_topic/article_topic
+biosustain
 ```
 
