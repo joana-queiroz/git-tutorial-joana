@@ -6,11 +6,12 @@ This is a template for a static website using Sphinx and GitHub Pages.
 :maxdepth: 2
 :hidden:
 
-casper/about_casper
+casper/aboutme
 henry/aboutme
 joana/aboutme
 Roopa/aboutme
 valgeir/aboutme
+Valentina/aboutme
 ```
 
 
