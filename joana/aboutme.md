@@ -1,3 +1,3 @@
 # About Joana
 
-I am an intern at DTU Biosustain
+I am an intern at DTU Biosustain. Hello.
